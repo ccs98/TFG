@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PowerUp
+  - CheckMaster
+  - Ficha
+  - Borde
+  - QuizPoint0
+  - QuizPoint1
+  - QuizPoint2
+  - QuizPoint3
+  - QuizPoint
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 2704882005
+    locked: 0
+  - name: Entry
+    uniqueID: 543898945
+    locked: 0
+  - name: Fore
+    uniqueID: 1039532807
+    locked: 0

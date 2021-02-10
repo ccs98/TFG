@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc216183a516f1b4598b0a6bb5e548d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objetoTextoInfo: {instanceID: 0}
+  - boton: {instanceID: 0}
+  - botonNoPulsado: {fileID: 21300000, guid: bbc438214dad72a42b104421cad703ac, type: 3}
+  - botonPulsado: {fileID: 21300000, guid: f40c2beb673ba3b429a0a5c121608cfe, type: 3}
+  - eventos: {fileID: 11400000, guid: 7d25f2e0486ae2e428602a08940f4c14, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

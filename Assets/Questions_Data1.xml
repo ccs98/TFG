@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <preguntas>
+    <Question>
+      <info>¿Que significa death?</info>
+      <respuestas>
+        <Respuesta>
+          <info>Salto</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Noche</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Juego</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Muerte</info>
+          <esCorrecta>true</esCorrecta>
+        </Respuesta>
+      </respuestas>
+      <tipo>Single</tipo>
+      <puntuacion>1</puntuacion>
+    </Question>
+    <Question>
+      <info>¿Como se dice habitacion en ingles?</info>
+      <respuestas>
+        <Respuesta>
+          <info>Room</info>
+          <esCorrecta>true</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Habitation</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+      </respuestas>
+      <tipo>Single</tipo>
+      <puntuacion>1</puntuacion>
+    </Question>
+    <Question>
+      <info>Complete: You ... my best friend</info>
+      <respuestas>
+        <Respuesta>
+          <info>Were</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Are</info>
+          <esCorrecta>true</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Is</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+      </respuestas>
+      <tipo>Single</tipo>
+      <puntuacion>1</puntuacion>
+    </Question>
+    <Question>
+      <info>¿Cual es el verbo ser o estar en ingles?</info>
+      <respuestas>
+        <Respuesta>
+          <info>To go</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>To have</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>To be</info>
+          <esCorrecta>true</esCorrecta>
+        </Respuesta>
+      </respuestas>
+      <tipo>Single</tipo>
+      <puntuacion>1</puntuacion>
+    </Question>
+    <Question>
+      <info>¿que expresiones pueden haber con take?</info>
+      <respuestas>
+        <Respuesta>
+          <info>Take over</info>
+          <esCorrecta>true</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Take up</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Take down</info>
+          <esCorrecta>true</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Take care</info>
+          <esCorrecta>true</esCorrecta>
+        </Respuesta>
+        <Respuesta>
+          <info>Take go</info>
+          <esCorrecta>false</esCorrecta>
+        </Respuesta>
+      </respuestas>
+      <tipo>Multi</tipo>
+      <puntuacion>1</puntuacion>
+    </Question>
+  </preguntas>
+</Data>
